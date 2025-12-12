@@ -39,7 +39,7 @@ The mod adds a "Fuel" category accessible from the REI interface showing:
 
 ## Usage
 
-1. Open REI in-game (default: `R` key)
+1. Open REI in-game (default: `U` key)
 2. Look for the **Fuel** category (🔥 furnace icon)
 3. Browse all available fuels and their statistics
 
