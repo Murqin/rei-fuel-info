@@ -54,8 +54,3 @@ The compiled JAR will be in `build/libs/`.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Credits
-
-- [shedaniel](https://github.com/shedaniel) for REI
-- [FabricMC](https://fabricmc.net/) for the Fabric modding platform
