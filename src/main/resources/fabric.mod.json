@@ -1,0 +1,35 @@
+{
+    "schemaVersion": 1,
+    "id": "reifuelinfo",
+    "version": "${version}",
+    "name": "REI Fuel Info",
+    "description": "Adds fuel information category to REI, showing burn times and smelting capacity for all fuel items.",
+    "authors": [
+        "Murqin"
+    ],
+    "contact": {
+        "homepage": "https://github.com/murqin/rei-fuel-info",
+        "sources": "https://github.com/murqin/rei-fuel-info"
+    },
+    "license": "MIT",
+    "icon": "assets/reifuelinfo/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "dev.murqin.reifuelinfo.ReiFuelInfoMod"
+        ],
+        "rei_client": [
+            "dev.murqin.reifuelinfo.rei.ReiFuelInfoPlugin"
+        ]
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21",
+        "java": ">=21",
+        "fabric-api": "*"
+    },
+    "suggests": {
+        "roughlyenoughitems": "*"
+    }
+}

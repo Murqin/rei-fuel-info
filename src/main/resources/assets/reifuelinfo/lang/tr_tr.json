@@ -1,0 +1,5 @@
+{
+    "category.reifuelinfo.fuel": "Yakıt",
+    "reifuelinfo.fuel.burn_time": "Yanma Süresi: %s tick (%s saniye)",
+    "reifuelinfo.fuel.smelt_count": "Eritebilir: %s item"
+}

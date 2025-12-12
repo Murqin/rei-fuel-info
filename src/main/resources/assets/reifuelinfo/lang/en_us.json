@@ -1,0 +1,5 @@
+{
+    "category.reifuelinfo.fuel": "Fuel",
+    "reifuelinfo.fuel.burn_time": "Burn Time: %s ticks (%s seconds)",
+    "reifuelinfo.fuel.smelt_count": "Can smelt: %s items"
+}
