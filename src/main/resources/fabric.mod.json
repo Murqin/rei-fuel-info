@@ -30,6 +30,6 @@
         "fabric-api": "*"
     },
     "suggests": {
-        "roughlyenoughitems": "*"
+        "roughlyenoughitems": ">=16.0.0"
     }
 }
