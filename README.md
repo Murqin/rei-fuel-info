@@ -32,7 +32,7 @@ The mod adds a "Fuel" category accessible from the REI interface showing:
 
 ## Installation
 
-1. Download the latest release from [Releases](https://github.com/yourusername/rei-fuel-info/releases)
+1. Download the latest release from [Modrinth](https://modrinth.com/mod/rei-fuel-info)
 2. Place the JAR file in your `.minecraft/mods/` folder
 3. Make sure you have Fabric API and REI installed
 4. Launch Minecraft with Fabric
