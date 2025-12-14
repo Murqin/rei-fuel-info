@@ -2,7 +2,7 @@
 
 A Fabric mod plugin for [Roughly Enough Items (REI)](https://github.com/shedaniel/RoughlyEnoughItems) that displays fuel information in Minecraft.
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.x-green)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.2+-green)
 ![Fabric API](https://img.shields.io/badge/Fabric%20API-Required-blue)
 ![REI](https://img.shields.io/badge/REI-Required-orange)
 
@@ -25,7 +25,7 @@ The mod adds a "Fuel" category accessible from the REI interface showing:
 
 ## Requirements
 
-- Minecraft 1.21.x (1.21, 1.21.1, 1.21.10, etc.)
+- Minecraft 1.21.2+ (1.21.2, 1.21.4, 1.21.5, 1.21.10, etc.)
 - Fabric Loader 0.16.0+
 - Fabric API
 - Roughly Enough Items (REI)
